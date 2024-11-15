@@ -1,0 +1,11 @@
+Flask
+pytest
+tensorflow
+opencv-python
+opencv-python-headless
+numpy
+pillow
+uvicorn
+fastapi
+flask-cors
+axios
